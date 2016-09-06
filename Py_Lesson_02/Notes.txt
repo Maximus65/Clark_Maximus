@@ -1,0 +1,40 @@
+Python Data Types
+After learning about variable initialization and assignment, you should be aware that data types are serious business. They can determine the success or failure of your project. Therefore, you should know them extremely well. This document should serve as a quick reference guide for the data types we will be using most often in this class. Research each of the terms below and write their definitions in the boxes below
+ 
+str : String is the datatype that represents text
+
+Integer: Signed integers, meaning they carry no fractional (decimal) part, and can be positive or negative
+
+Float: In the most simple terms, a float is the datatype of decimal numbers
+
+list: List of data tables that are the same
+
+tuple:  An unchangeable list
+
+
+
+
+
+
+
+
+
+Fill in the descriptions below for each operator. You can use this in the future as a reference guide to help you with your labs. 
+
+Operator
+Description
++
+Addition of numbers or strings
+-
+Subtraction
+*
+Multiplication
+/
+Division
+%
+Used to find the remainder of division
+**
+Used for exponents
+//
+Floor Division 
+
