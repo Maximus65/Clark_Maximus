@@ -14,5 +14,7 @@ print (" I live on" , adress , stname , city , zipcode)
 Length = 16
 Height = 16
 Width = 16
-surfarea = Length * Height * Width
+surfarea = 2 * (Width*Height+Height*Length+Width*Length) 
 print (" the surface area of the cube is" , surfarea)
+
+
