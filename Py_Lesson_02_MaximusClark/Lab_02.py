@@ -1,3 +1,4 @@
+
 l = 2
 W = 8
 a = 5
@@ -10,7 +11,10 @@ adress = 12961
 stname = "Sea Breeze Farms Dr."
 city = "CA, San Diego"
 zipcode = 92130
-print (" I live on" , adress , stname , city , zipcode)
+Name = "Maximus Clark"
+print ( Name)
+print ( adress , stname)
+print ( city , zipcode) 
 Length = 16
 Height = 16
 Width = 16
