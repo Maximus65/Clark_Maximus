@@ -1,0 +1,16 @@
+Lesson 4 Study Guid-
+	1)def format(one, two):
+		("{:<10}{:>5.2}.format(one, two))
+	2)def format(one, two):
+		("{:<10}{:.>9.2}.format(one, two))
+	3)D
+	4)def calcsurf(side):
+		6**3
+	5)def sumprint(one, two):
+		return num1 + num2
+	6)def calcRadius(one):
+		print("{:<.3f}".format(one))
+	7)B
+	8)D
+	9)B
+	10)D
