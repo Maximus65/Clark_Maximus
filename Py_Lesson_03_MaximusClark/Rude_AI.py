@@ -1,8 +1,9 @@
+
 print ("Hi my name is Rude_AI,")
 Answer = input ("can I ask you some questions? ")
 print ("Frick yea I can!!!")
 Name = input ("What is your name? ")
-print (Name, "? Thats the worst name I've ever heard, let me guess your ugly to")
+print (Name, "? Thats the worst name I've ever heard, let me guess your ugly to!")
 Activity = input ("What do you do for fun? ")
 print (Activity, "Wow you loser thats the most boring thing ever!!!")
 Music = input ("What music do you like? ")
