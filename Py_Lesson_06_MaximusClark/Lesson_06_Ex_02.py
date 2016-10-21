@@ -1,2 +1,3 @@
 num = int(input("Please enter a number: "))
-variable = 1
+for variable in range(1, num + 1):
+    print(variable)
