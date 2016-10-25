@@ -3,3 +3,4 @@ table = int(input("What is the size of the graph? "))
 print("-"*table)
 print(" "*(cordinate - 1), cordinate)
 
+
